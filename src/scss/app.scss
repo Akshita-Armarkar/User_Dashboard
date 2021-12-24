@@ -1,0 +1,14 @@
+.app {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+
+    footer{
+        margin-top: auto;
+        text-align: right;
+        padding: 1rem;
+    }
+}
+

@@ -1,0 +1,17 @@
+.td-email{
+    display: flex;
+    flex-flow: row nowrap;
+    column-gap: 1rem;
+    justify-content: flex-start;
+    align-items: center;
+
+    .icon{
+        $size: 2.5rem;
+        border-radius: 50%;
+        width: $size ;
+        height: $size ;
+        line-height: $size ;
+        text-align: center;
+        text-transform: uppercase;
+    }
+}
