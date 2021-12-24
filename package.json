@@ -1,4 +1,6 @@
-{
+
+{ 
+  "homepage": "https://akshita-armarkar.github.io/User_Dashboard",
   "name": "dashboard-app",
   "version": "0.1.0",
   "private": true,
